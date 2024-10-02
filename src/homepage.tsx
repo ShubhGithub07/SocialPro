@@ -10,7 +10,7 @@ import {
   Instagram,
   Facebook,
 } from "lucide-react";
-import Image from "next/image";
+
 
 export default function Homepage() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
